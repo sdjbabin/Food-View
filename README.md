@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🍽️ Food View: Zomato vs. Swiggy 🍕
