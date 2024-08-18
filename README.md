@@ -20,8 +20,8 @@ The primary goal of this project is to visually compare the performance of Zomat
 
 ## Data Sources
 The data used in this project includes:
-- **Zomato**: Historical stock prices, customer ratings, and market data.
-- **Swiggy**: Market share estimates, customer ratings, and financial information from publicly available sources.
+- **Zomato**: Historical stock prices, customer ratings and market data.
+- **Swiggy**: Market share estimates, customer ratings and financial information from publicly available sources.
 
 ## Methodology
 ### 1. Data Collection
@@ -31,11 +31,11 @@ The data used in this project includes:
 
 ### 2. Data Cleaning and Preparation
    - The collected data was processed to ensure consistency and accuracy.
-   - Missing values were addressed, and the datasets were standardized for analysis.
+   - Missing values were addressed and the datasets were standardized for analysis.
 
 ### 3. Exploratory Data Analysis (EDA)
    - Trends, patterns, and correlations in the data were explored.
-   - Time-series analysis was conducted on Zomato's stock prices, and comparisons were made with Swiggy's market data.
+   - Time-series analysis was conducted on Zomato's stock prices and comparisons were made with Swiggy's market data.
 
 ### 4. Data Visualization
    - Various visualization techniques were employed to represent the data clearly:
