@@ -51,12 +51,26 @@ The data used in this project includes:
 The report concludes with a summary of the key findings and a discussion on the implications of the observed trends for both Zomato and Swiggy in the competitive food delivery market.
 
 ## How to Use
-This repository includes the following files:
-- **`data/`**: Contains the cleaned and processed datasets used in the analysis.
-- **`scripts/`**: Includes the Python scripts used for data analysis and visualization.
-- **`visualizations/`**: Contains the final visualizations generated from the data.
 
-To replicate the analysis, clone the repository and follow the instructions in the `scripts` directory.
+- **`Cafe-biryani.xlsx`**: Excel file containing data about cafes and biryani restaurants sourced from Zomato Trends
+- **`Food View Report.pdf`**: The final report of our data visualization project.
+- **`README.md`**: This file, containing information about the project and repository.
+- **`ZOMT Historical Data.csv`**: CSV file with historical data for Zomato.
+- **`Zomato Food Trends.xlsx`**: Excel file showing food trends on Zomato.
+- **`Zomato_Analysis.pbix`**: Power BI file for Zomato data analysis.
+- **`forecast.csv`**: CSV file containing forecast data.
+- **`preprocess-zomato-for-sentiment.ipynb`**: Jupyter notebook for preprocessing Zomato data for sentiment analysis.
+- **`sentiments.csv`**: CSV file with sentiment analysis results.
+- **`stock_zomato.pbix`**: Power BI file for Zomato stock analysis.
+- **`swiggy.csv`**: CSV file containing Swiggy data.
+- **`zomato_final.xlsx`**: Final compiled Excel file for Zomato data.
+
+To use this repository:
+1. Clone the repository to your local machine.
+2. Open the Power BI files (`*.pbix`) to view the interactive dashboards.
+3. Explore the Excel and CSV files for raw data.
+4. Refer to the `Food View Report.pdf` for a comprehensive analysis of the findings.
+5. Use the Jupyter notebook for sentiment analysis preprocessing if needed.
 
 ## Future Work
 Potential areas for further exploration include:
