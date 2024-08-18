@@ -96,8 +96,8 @@ Potential areas for further exploration include:
 - Conducting similar analyses for other markets where Zomato and Swiggy operate.
 
 ## Collaborators
-- **Soham Chatterjee** - [LinkedIn Profile](https://www.linkedin.com/in/soham-chatterjee--/)
-- **Ritwikaa DasGupta** - [LinkedIn Profile](https://www.linkedin.com/in/ritwika-das-gupta-372562202/)
-- **Swarnasish Banerjee** - [LinkedIn Profile](https://www.linkedin.com/in/swarnasish-banerjee-9923ab227/)
-- **Sayantan Ray** - [LinkedIn Profile](https://www.linkedin.com/in/sayantan-ray-728218195/)
+- [**Soham Chatterjee**](https://www.linkedin.com/in/soham-chatterjee--/)
+-   [**Ritwikaa DasGupta**](https://www.linkedin.com/in/ritwika-das-gupta-372562202/)
+-   [**Swarnasish Banerjee**](https://www.linkedin.com/in/swarnasish-banerjee-9923ab227/)
+-   [**Sayantan Ray**](https://www.linkedin.com/in/sayantan-ray-728218195/)
 
