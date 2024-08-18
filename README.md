@@ -15,6 +15,9 @@
 ## Overview
 This project presents a comparative analysis of two leading food delivery platforms in India, Zomato and Swiggy. The report uses data visualization techniques to examine key aspects such as stock performance, market presence, customer engagement, and overall trends over a specific period.
 
+![image](https://github.com/user-attachments/assets/f8341b89-4f0c-4abb-a48c-cdb13c471a16)
+
+
 ## Project Objective
 The primary goal of this project is to visually compare the performance of Zomato and Swiggy in the food delivery market. By analyzing data like stock prices, customer ratings, and market trends, the project provides insights into the strengths and challenges faced by each platform.
 
