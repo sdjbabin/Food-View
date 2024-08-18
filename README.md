@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍽️ Food View: Zomato vs. Swiggy 🍕
+# 🍽️ Food View: Zomato vs. Swiggy 📈
 
 ### A Data Visualization Report
 
