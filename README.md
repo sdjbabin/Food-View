@@ -1,16 +1,12 @@
-<h1 style="
-  color: #4a4a4a;
-  background: linear-gradient(to right, #f9f9f9, #e6e6e6);
-  padding: 20px;
-  border-radius: 10px;
-  text-align: center;
-  font-family: Arial, sans-serif;
-  font-weight: 300;
-  letter-spacing: 1px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-">
-  Food View: Zomato vs. Swiggy - A Data Visualization Report
-</h1>
+<div align="center">
+
+# 🍽️ Food View: Zomato vs. Swiggy 🍕
+
+### A Data Visualization Report
+
+</div>
+
+---
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/564889a9-912b-4f4b-9e2e-8f58dad0227a" width="200" height="200" alt="giphy" style="margin-left: 50 %;">
