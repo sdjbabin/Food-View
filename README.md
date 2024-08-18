@@ -1,5 +1,8 @@
 # Food View: Zomato vs. Swiggy - A Data Visualization Report
+
+<div align="center">
 <img src="https://github.com/user-attachments/assets/564889a9-912b-4f4b-9e2e-8f58dad0227a" width="200" height="200" alt="giphy" style="margin-left: 50 %;">
+</div>
 
 ## Overview
 This project presents a comparative analysis of two leading food delivery platforms in India, Zomato and Swiggy. The report uses data visualization techniques to examine key aspects such as stock performance, market presence, customer engagement, and overall trends over a specific period.
