@@ -43,25 +43,21 @@ The data used in this project includes:
      - **Customer Ratings**: Histograms and box plots to analyze customer ratings and their changes over time.
      - **Geospatial Analysis**: Heatmaps to display the distribution of orders across different regions, where applicable.
     
-<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">Zomato Dashboard Analysis: Key Insights</h3>
+<div>Zomato Dashboard Analysis: Key Insights</div>
+<img src="https://github.com/user-attachments/assets/f8341b89-4f0c-4abb-a48c-cdb13c471a16" alt="Zomato Dashboard Analysis" />
 
-![image](https://github.com/user-attachments/assets/f8341b89-4f0c-4abb-a48c-cdb13c471a16)
+<div>Analyzing Stock Movements for Zomato in the market</div>
+<img src="https://github.com/user-attachments/assets/20b3b4b7-d8be-4a89-9d62-5faf6a8f100a" alt="Zomato Stock Movements" />
 
-<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">Analyzing Stock Movements for Zomato in the market</h3>
+<div>Forecast and Candlestick Charts (Here: Last 2 months)</div>
+<img src="https://github.com/user-attachments/assets/37606fba-7e47-4033-82d2-6bbdd2292038" alt="Forecast and Candlestick Charts" />
 
-![image](https://github.com/user-attachments/assets/20b3b4b7-d8be-4a89-9d62-5faf6a8f100a)
+<div>FoodFeud: Zomato vs Swiggy Comparative Insights</div>
+<img src="https://github.com/user-attachments/assets/26e70096-84b8-4a0c-901c-3a8a5fd44487" alt="Zomato vs Swiggy Comparative Insights" />
 
-<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">Forecast and Candlestick Charts (Here: Last 2 months)</h3>
+<div>Cuisine Comparative Analysis through wordcloud</div>
+<img src="https://github.com/user-attachments/assets/7b0f8bce-09b7-45f1-812b-7e379d82b491" alt="Cuisine Comparative Analysis" />
 
-![image](https://github.com/user-attachments/assets/37606fba-7e47-4033-82d2-6bbdd2292038)
-
-<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">FoodFeud: Zomato vs Swiggy Comparative Insights</h3>
-
-![image](https://github.com/user-attachments/assets/26e70096-84b8-4a0c-901c-3a8a5fd44487)
-
-<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">Cuisine Comparative Analysis through wordcloud</h3>
-
-![image](https://github.com/user-attachments/assets/7b0f8bce-09b7-45f1-812b-7e379d82b491)
 
 ### 5. Insights and Interpretation
    - The visualizations were analyzed to derive meaningful insights about Zomato's and Swiggy's performance. These insights include identifying periods of significant growth or decline and exploring potential reasons behind these trends.
