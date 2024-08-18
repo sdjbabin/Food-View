@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/1f639fea-55ba-44fe-88cf-57adcf789426)<div align="center">
 
 # 🍽️ Food View: Zomato vs. Swiggy 📈
 
@@ -15,7 +15,20 @@
 ## Overview
 This project presents a comparative analysis of two leading food delivery platforms in India, Zomato and Swiggy. The report uses data visualization techniques to examine key aspects such as stock performance, market presence, customer engagement, and overall trends over a specific period.
 
+### Zomato Dashboard Analysis: Key Insights
 ![image](https://github.com/user-attachments/assets/f8341b89-4f0c-4abb-a48c-cdb13c471a16)
+
+### Analyzing Stock Movements for Zomato in the market
+![image](https://github.com/user-attachments/assets/20b3b4b7-d8be-4a89-9d62-5faf6a8f100a)
+
+### Forecast and Candlestick Charts (Here: Last 2 months)
+![image](https://github.com/user-attachments/assets/37606fba-7e47-4033-82d2-6bbdd2292038)
+
+### FoodFeud: Zomato vs Swiggy Comparative Insights
+![image](https://github.com/user-attachments/assets/26e70096-84b8-4a0c-901c-3a8a5fd44487)
+
+### Cuisine Comparative Analysis through wordcloud
+![image](https://github.com/user-attachments/assets/7b0f8bce-09b7-45f1-812b-7e379d82b491)
 
 
 ## Project Objective
