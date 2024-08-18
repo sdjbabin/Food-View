@@ -14,22 +14,6 @@
 ## Overview
 This project presents a comparative analysis of two leading food delivery platforms in India, Zomato and Swiggy. The report uses data visualization techniques to examine key aspects such as stock performance, market presence, customer engagement, and overall trends over a specific period.
 
-### Zomato Dashboard Analysis: Key Insights
-![image](https://github.com/user-attachments/assets/f8341b89-4f0c-4abb-a48c-cdb13c471a16)
-
-### Analyzing Stock Movements for Zomato in the market
-![image](https://github.com/user-attachments/assets/20b3b4b7-d8be-4a89-9d62-5faf6a8f100a)
-
-### Forecast and Candlestick Charts (Here: Last 2 months)
-![image](https://github.com/user-attachments/assets/37606fba-7e47-4033-82d2-6bbdd2292038)
-
-### FoodFeud: Zomato vs Swiggy Comparative Insights
-![image](https://github.com/user-attachments/assets/26e70096-84b8-4a0c-901c-3a8a5fd44487)
-
-### Cuisine Comparative Analysis through wordcloud
-![image](https://github.com/user-attachments/assets/7b0f8bce-09b7-45f1-812b-7e379d82b491)
-
-
 ## Project Objective
 The primary goal of this project is to visually compare the performance of Zomato and Swiggy in the food delivery market. By analyzing data like stock prices, customer ratings, and market trends, the project provides insights into the strengths and challenges faced by each platform.
 
@@ -58,6 +42,26 @@ The data used in this project includes:
      - **Revenue and Market Share**: Bar charts to compare Zomato's revenue and market share with Swiggy's.
      - **Customer Ratings**: Histograms and box plots to analyze customer ratings and their changes over time.
      - **Geospatial Analysis**: Heatmaps to display the distribution of orders across different regions, where applicable.
+    
+<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">Zomato Dashboard Analysis: Key Insights</h3>
+
+![image](https://github.com/user-attachments/assets/f8341b89-4f0c-4abb-a48c-cdb13c471a16)
+
+<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">Analyzing Stock Movements for Zomato in the market</h3>
+
+![image](https://github.com/user-attachments/assets/20b3b4b7-d8be-4a89-9d62-5faf6a8f100a)
+
+<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">Forecast and Candlestick Charts (Here: Last 2 months)</h3>
+
+![image](https://github.com/user-attachments/assets/37606fba-7e47-4033-82d2-6bbdd2292038)
+
+<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">FoodFeud: Zomato vs Swiggy Comparative Insights</h3>
+
+![image](https://github.com/user-attachments/assets/26e70096-84b8-4a0c-901c-3a8a5fd44487)
+
+<h3 style="background-color: rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 5px;">Cuisine Comparative Analysis through wordcloud</h3>
+
+![image](https://github.com/user-attachments/assets/7b0f8bce-09b7-45f1-812b-7e379d82b491)
 
 ### 5. Insights and Interpretation
    - The visualizations were analyzed to derive meaningful insights about Zomato's and Swiggy's performance. These insights include identifying periods of significant growth or decline and exploring potential reasons behind these trends.
