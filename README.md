@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1f639fea-55ba-44fe-88cf-57adcf789426)<div align="center">
 
 # 🍽️ Food View: Zomato vs. Swiggy 📈
 
